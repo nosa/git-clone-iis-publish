@@ -1,8 +1,5 @@
 # git-clone-iis-publish
 
-## Name
-git-clone-iis-publish
-
 ## Overview
  windows bat script for VisualStudio 2013 project. clone -> build -> publish to iis.
 
